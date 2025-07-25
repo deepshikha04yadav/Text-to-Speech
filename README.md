@@ -26,17 +26,7 @@ A simple and customizable Text-to-Speech (TTS) project that converts written tex
 
    *Check repository files for additional requirements.*
 
-## Usage
 
-### Basic Usage
-
-1. Edit the script or execute a main file:
-
-   ```bash
-   python main.py
-   ```
-
-2. Enter the text you want to convert, or modify the script to use your own input.
 
 ### Example (Python)
 
