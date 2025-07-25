@@ -66,9 +66,6 @@ engine.runAndWait()
 4. Push to the branch (`git push origin feature/my-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
